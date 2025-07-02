@@ -10,6 +10,7 @@ This will be displayed on a dashboard, promoting healthy competition and a socia
 - [Jira](https://codinhub.atlassian.net/jira/software/projects/CODINHUB/boards/1)
 - [CodeRabbit](https://app.coderabbit.ai/settings/repositories)
 - [SonarCloud](https://sonarcloud.io/organizations/codin-h/projects)
+- [Figma](https://www.figma.com/design/fNsjMa6J4vRRHvt9rdIfcf/CodinHub?node-id=0-1&p=f&t=6utLTf4sWDCfFjsP-0)
   
 </details>
 
