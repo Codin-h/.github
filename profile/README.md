@@ -7,7 +7,7 @@ This will be displayed on a dashboard, promoting healthy competition and a socia
     <summary>Docments and Tools</summary>
 
 - [Document](https://www.overleaf.com/project/6863e8cafe30402a3a91f039/)
-- [Jira](https://codinhub.atlassian.net/jira/software/projects/CODINHUB/boards/)
+- [Jira](https://codinhub.atlassian.net/jira/software/projects/CODINHUB/boards/1)
   
 </details>
 
