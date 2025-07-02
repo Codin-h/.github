@@ -8,6 +8,8 @@ This will be displayed on a dashboard, promoting healthy competition and a socia
 
 - [Document](https://www.overleaf.com/project/6863e8cafe30402a3a91f039/)
 - [Jira](https://codinhub.atlassian.net/jira/software/projects/CODINHUB/boards/1)
+- [CodeRabbit](https://app.coderabbit.ai/settings/repositories)
+- [SonarCloud](https://sonarcloud.io/organizations/codin-h/projects)
   
 </details>
 
